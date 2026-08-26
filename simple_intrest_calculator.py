@@ -1,1 +1,0 @@
-p = float(input("ENTER YOUR "))
