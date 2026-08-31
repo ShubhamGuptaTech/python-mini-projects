@@ -16,6 +16,6 @@ while process:
         guessed_num = random.randint(1,100)
         guess_count = 0
     elif user_guess < guessed_num:
-        print("Guess a higher number ")
+        print("Guess a higher number")
     else:
-        print("Guess a lower number ")
+        print("Guess a lower number")
